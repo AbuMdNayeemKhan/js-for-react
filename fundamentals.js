@@ -24,11 +24,17 @@ numbers[0] = 56;
 
 // 6. OBJECT
 
-// ES6 =>
+// 7. JSON
+
+// 8. ES6 =>
     // 1. TEMPLATE STRING
     // 2. ARROW FUNCTION
         // 1.MAP
         // 2.FOR EACH 
         // 3.FILTER 
         // 4.FIND  
+        // 5.DESTRUCTURING 
     // 3. SPREAD OPERATOR
+
+// 9. FETCH
+// 10. TRUTHY, FALSY, TARNARY OPERATOR, SHORTCUT AND OR
